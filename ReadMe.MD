@@ -1,6 +1,6 @@
 ## Best CSS-CHALLENGE
 
-This is an website built with css and html. it is a sophisticated one
+This is a website built with css and html. it is a sophisticated one
 I have used CSS FLEXBOX and GRID Layout which the two most popular
 layout. I have used this two popular tools to structure and arrange HTML elements 
 in the web page
