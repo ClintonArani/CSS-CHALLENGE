@@ -571,7 +571,8 @@ label{
 }
 select {
     padding: 8px;
-    font-size: 16px;
+    font-size: 14px;
+    color: #0ac1d6;
     
   }
 .book-btn{
