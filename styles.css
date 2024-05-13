@@ -643,7 +643,9 @@ select {
     font-family: 'Times New Roman', Times, serif;
     text-decoration: none;
 }
-
+.card-1 > .company-info > p > a:hover{
+    text-decoration: underline gray;
+}
 .card-2{
     display: flex;
     flex-direction: column;
@@ -658,7 +660,9 @@ select {
     font-family: 'Times New Roman', Times, serif;
     text-decoration: none;
 }
-
+.card-2 > .company-info > p > a:hover{
+    text-decoration: underline gray;
+}
 .card-3{
     display: flex;
     flex-direction: column;
@@ -672,6 +676,9 @@ select {
     font-size: large;
     font-family: 'Times New Roman', Times, serif;
     text-decoration: none;
+}
+.card-3 > .company-info > p > a:hover{
+    text-decoration: underline gray;
 }
 .card-4{
     display: flex;
@@ -687,7 +694,9 @@ select {
     font-family: 'Times New Roman', Times, serif;
     text-decoration: none;
 }
-
+.card-4 > .company-info > p > a:hover{
+    text-decoration: underline gray;
+}
 .card-5{
     display: flex;
     flex-direction: column;
@@ -702,7 +711,9 @@ select {
     font-family: 'Times New Roman', Times, serif;
     text-decoration: none;
 }
-
+.card-5 > .company-info > p > a:hover{
+    text-decoration: underline gray;
+}
 p a{
     display: flex;
 }
